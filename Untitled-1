@@ -1,3 +1,0 @@
-docker buildx build \
---platform linux/amd64,linux/arm64/v8 \
--t axely7/cron-ticker:oso --push .
